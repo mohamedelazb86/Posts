@@ -1,0 +1,17 @@
+@font-face {
+    font-family: myfont;
+    src: url(Roboto-BoldItalic.ttf);
+  }
+
+  body{
+    font-family: myfont ;
+  }
+
+
+  .widget-table-three .table > thead > tr > th {
+    text-align: center !important;
+}
+
+.widget-table-three .table > tbody > tr {
+  text-align: center !important;
+}
